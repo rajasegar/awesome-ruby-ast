@@ -32,3 +32,5 @@ https://gist.github.com/jonatas/e70c874cbbd0cac5a9abd9f4a78fa816
 
 ## Videos
 - [RubyElixirConfTaiwan 2018: Boost Your Daily Development with Ruby's AST Toolchains by vzvu3k6k](https://www.youtube.com/watch?v=2-Dh7PchyS0)
+- [Ruby Meta Meta Programming (AST Parsing)] (https://www.youtube.com/watch?v=QYSXevUo1jg)
+- [Rubocop: What I learned from my first open source contribution - Singapore Ruby Group](https://www.youtube.com/watch?v=C3oZYTSSrmY)
