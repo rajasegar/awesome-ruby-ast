@@ -10,10 +10,14 @@ A list of awesome tools and libraries which deals with ASTs in Ruby
 
 
 ## Tools
+- [Rubocop](https://github.com/rubocop-hq/rubocop/)
 - [Ripper](https://docs.ruby-lang.org/en/2.4.0/Ripper.html)
 - [ruby2ruby](http://www.zenspider.com/projects/ruby2ruby.html)
 - [Astrolabe](https://github.com/yujinakayama/astrolabe)
 - [rr-to-rspec-converter](https://github.com/kjvarga/rr-to-rspec-converter)
+- [vernacular-ast](https://github.com/kddeisz/vernacular-ast)
+- [improve_your_code](https://github.com/IlyaUmanets/improve_your_code)
+- [ast_utils](https://github.com/soutaro/ast_utils)
 
 ## Blog Posts
 
