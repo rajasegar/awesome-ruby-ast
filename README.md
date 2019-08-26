@@ -25,6 +25,10 @@ A list of awesome tools and libraries which deals with ASTs in Ruby
 - [Using Ruby parser and AST tree to find deprecated syntax](https://blog.arkency.com/using-ruby-parser-and-ast-tree-to-find-deprecated-syntax/)
 - [Rewriting deprecated apis with parser gem](https://blog.arkency.com/rewriting-deprecated-apis-with-parser-gem/)
 - [Parsing Ruby](https://whitequark.org/blog/2012/10/02/parsing-ruby/)
+- [Static Analysis in Ruby](https://www.rubyguides.com/2015/08/static-analysis-in-ruby/)
+- [Search in Ruby AST](http://ideia.me/search-in-ruby-ast)
+- [Parsing with the Parslet Gem](https://www.sitepoint.com/parsing-parslet-gem/)
+- [A Quick Intro into writing a Parser using Treetop](http://thingsaaronmade.com/blog/a-quick-intro-to-writing-a-parser-using-treetop.html)
 
 ## Gists
 https://gist.github.com/jonatas/e70c874cbbd0cac5a9abd9f4a78fa816
@@ -32,5 +36,5 @@ https://gist.github.com/jonatas/e70c874cbbd0cac5a9abd9f4a78fa816
 
 ## Videos
 - [RubyElixirConfTaiwan 2018: Boost Your Daily Development with Ruby's AST Toolchains by vzvu3k6k](https://www.youtube.com/watch?v=2-Dh7PchyS0)
-- [Ruby Meta Meta Programming (AST Parsing)] (https://www.youtube.com/watch?v=QYSXevUo1jg)
+- [Ruby Meta Meta Programming (AST Parsing)](https://www.youtube.com/watch?v=QYSXevUo1jg)
 - [Rubocop: What I learned from my first open source contribution - Singapore Ruby Group](https://www.youtube.com/watch?v=C3oZYTSSrmY)
