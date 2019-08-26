@@ -18,6 +18,7 @@ A list of awesome tools and libraries which deals with ASTs in Ruby
 - [vernacular-ast](https://github.com/kddeisz/vernacular-ast)
 - [improve_your_code](https://github.com/IlyaUmanets/improve_your_code)
 - [ast_utils](https://github.com/soutaro/ast_utils)
+- [reek](https://github.com/troessner/reek)
 
 ## Blog Posts
 
