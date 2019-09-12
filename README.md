@@ -17,9 +17,15 @@ A list of awesome tools and libraries which deals with ASTs in Ruby
 - [ast_utils](https://github.com/soutaro/ast_utils)
 - [improve_your_code](https://github.com/IlyaUmanets/improve_your_code)
 - [reek](https://github.com/troessner/reek)
-- [rr-to-rspec-converter](https://github.com/kjvarga/rr-to-rspec-converter)
 - [ruby2ruby](http://www.zenspider.com/projects/ruby2ruby.html)
 - [vernacular-ast](https://github.com/kddeisz/vernacular-ast)
+
+## Converters
+- [rr-to-rspec-converter](https://github.com/kjvarga/rr-to-rspec-converter)
+- [arel_converter](https://www.rubydoc.info/gems/arel_converter/0.0.1)
+- [rails5-spec-converter](https://github.com/tjgrathwell/rails5-spec-converter)
+- [attr_accessible2strong_params](https://github.com/Eric-Guo/attr_accessible2strong_params)
+- [rails5_xhr_update](https://github.com/appfolio/rails5_xhr_update)
 
 ## Blog Posts
 
