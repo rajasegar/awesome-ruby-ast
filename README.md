@@ -19,6 +19,9 @@ A list of awesome tools and libraries which deals with ASTs in Ruby
 - [reek](https://github.com/troessner/reek)
 - [ruby2ruby](http://www.zenspider.com/projects/ruby2ruby.html)
 - [vernacular-ast](https://github.com/kddeisz/vernacular-ast)
+- [ruby-ast-explorer](https://github.com/rajasegar/ruby-ast-explorer)
+- [codeshift](https://github.com/rajasegar/codeshift)
+- [cybertron](https://github.com/rajasegar/cybertron)
 
 ## Converters
 - [Transpec](https://github.com/yujinakayama/transpec)
